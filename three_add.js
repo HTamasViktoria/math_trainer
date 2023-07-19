@@ -14,6 +14,8 @@ let secondOperation = document.querySelector("#secondOperation")
 let hexArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
 let hexColor = "#";
 
+//I do commenting dummy text here.
+//another dummy text.
 
 /*let colorMaker = function (element) {
     for (let i = 0; i < 6; i++) {
